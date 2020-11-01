@@ -17,3 +17,5 @@
 ### Choices Made
 I decided to use a very simple set up of a HTML, CSS, JavaScript, and jQuery. I normally enjoy writing React code, but utilizing React for a simple single page app would have been overkill and unnecessary. 
 
+Since the requirements did not specifically say to parse the JSON file, I made the decision to not parse the JSON file and instead just add it into a static file called store.js. The rationale was not to over optimize and not make the app accept additional JSON files that can be parsed. I enjoyed writing this simple app and thanks for your time!
+
